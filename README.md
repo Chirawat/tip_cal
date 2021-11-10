@@ -7,4 +7,5 @@ from tutorial:
 
 Screenshot:
 |Screen 1| Screen 2|
-|[1](/screenshot/sc1.png)|[2](/screenshot/sc2.png)|
+|---|---|
+|![1](/screenshot/sc1.png)|![2](/screenshot/sc2.png)|
